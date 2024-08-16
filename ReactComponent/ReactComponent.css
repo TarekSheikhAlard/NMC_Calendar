@@ -1,0 +1,17 @@
+#calendar {
+    width: 800px;
+    position: absolute;
+    z-index: 0 !important;
+  }
+  
+ .fc-daygrid-body {
+    position: relative !important;
+    z-index: 0 !important;
+}
+
+.fc-timegrid-body
+{
+    position: relative !important;
+    z-index: 0 !important;
+}
+
